@@ -5,3 +5,9 @@ html {
 body {
   background-color: tomato;
 }
+
+.box {
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+}
